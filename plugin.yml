@@ -1,0 +1,13 @@
+name: PureEntities
+main: magicode\pureentities\PureEntities
+version: "1.1"
+api: 
+- 2.1.0
+- 2.0.0
+- 1.14.0
+
+load: STARTUP
+author: (milk0417, magicode), TSRTW
+description: Implement all MCPE entities
+website: https://github.com/TSRTW/PureEntities
+commands: []
